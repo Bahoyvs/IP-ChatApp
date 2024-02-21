@@ -12,7 +12,7 @@ This is a simple chat application built in Python using sockets for communicatio
 * Run the client message sender (clientsender.py) to send messages to the server. Upon running the sender, the client message receiver (clientreceiver.py) will automatically open in a separate terminal.
 * Enter a username when prompted.
 * Send messages to the server, which will be broadcasted to all connected clients.
-* Type /quit to gracefully disconnect from the server.
+* Press Ctrl + C to gracefully disconnect from the server.
 # Requirements
 * Python 3.x
 * Colorama library for colorized output (install using pip install colorama)
