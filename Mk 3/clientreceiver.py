@@ -21,7 +21,7 @@ def find_server_port(server_host, start_port, end_port):
     return None
 
 # Server adresi ve başlangıç port numarası
-SERVER_HOST = '139.179.196.136'
+SERVER_HOST = '192.168.1.1'
 START_PORT = 8000
 END_PORT = 9000
 

@@ -39,7 +39,7 @@ def main():
     os.system("start python clientreceiver.py")
 
     # Server adresi ve başlangıç port numarası
-    SERVER_HOST = '139.179.196.136'
+    SERVER_HOST = '192.168.1.1'
     START_PORT = 8000
     END_PORT = 9000
 
